@@ -1,0 +1,1 @@
+cat ../messenger.erl > messenger.erl
